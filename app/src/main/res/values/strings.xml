@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">groceriesApps</string>
+    <string name="header_name">Zydane\'s Grocerries</string>
+    <string name="settings">Settings</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="header_caption">The best grocery application in Indonesia.\nChoose the best products here!</string>
+    <string name="search_button">Search Item</string>
+    <string name="discount_title">Top Discount Items</string>
+    <string name="disc_1">image discount 1</string>
+    <string name="categories_title">Select Categories</string>
+    <string name="all_category">All Category</string>
+    <string name="select_categories">Select Categories</string>
+    <string name="see_more">See More</string>
+    <string name="recently_view_item">Recently View Item</string>
+    <string name="product_name">Product Name</string>
+    <string name="fingerprint_icon">Fingerprint Icon</string>
+    <string name="qty">qty</string>
+    <string name="unit">unit</string>
+    <string name="textview">TextView</string>
+</resources>
